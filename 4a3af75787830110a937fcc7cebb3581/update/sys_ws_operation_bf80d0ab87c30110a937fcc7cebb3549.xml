@@ -27,22 +27,22 @@
         <produces_customized>false</produces_customized>
         <relative_path>/getCatItemSections</relative_path>
         <request_example/>
-        <requires_acl_authorization>true</requires_acl_authorization>
-        <requires_authentication>true</requires_authentication>
-        <requires_snc_internal_role>true</requires_snc_internal_role>
+        <requires_acl_authorization>false</requires_acl_authorization>
+        <requires_authentication>false</requires_authentication>
+        <requires_snc_internal_role>false</requires_snc_internal_role>
         <short_description/>
         <sys_class_name>sys_ws_operation</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-04-29 21:03:48</sys_created_on>
         <sys_id>bf80d0ab87c30110a937fcc7cebb3549</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name>getCatItemSections</sys_name>
         <sys_package display_value="CodeCreative Catalog Experience" source="x_0505_cc_sc_tools">4a3af75787830110a937fcc7cebb3581</sys_package>
         <sys_policy/>
         <sys_scope display_value="CodeCreative Catalog Experience">4a3af75787830110a937fcc7cebb3581</sys_scope>
         <sys_update_name>sys_ws_operation_bf80d0ab87c30110a937fcc7cebb3549</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-05-03 01:25:26</sys_updated_on>
+        <sys_updated_by>derek.j.macdonald</sys_updated_by>
+        <sys_updated_on>2023-04-13 15:21:23</sys_updated_on>
         <web_service_definition display_value="CodeCreative Catalog Toolkit">1aaf446b87c30110a937fcc7cebb3505</web_service_definition>
         <web_service_version/>
     </sys_ws_operation>
