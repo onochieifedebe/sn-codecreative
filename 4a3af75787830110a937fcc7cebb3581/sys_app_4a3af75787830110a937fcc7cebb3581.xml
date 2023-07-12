@@ -40,11 +40,13 @@
         <vendor_prefix/>
         <version>0.0.1</version>
     </sys_app>
+    <sys_translated_text action="delete_multiple" query="documentkey=4a3af75787830110a937fcc7cebb3581"/>
     <sys_attachment action="INSERT_OR_UPDATE">
         <average_image_color/>
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
+        <encryption_context/>
         <file_name>CC Logomark Color.png</file_name>
         <hash>5ff94f9ddb8a1646bd20212a625d756bc401901201c2323a61951b8a7d84f90b</hash>
         <image_height/>
