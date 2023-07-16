@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>onochie.ifedebe</sys_created_by>
+        <sys_created_on>2023-04-07 21:02:29</sys_created_on>
+        <sys_id>78d962b187ca6d501d4f0fe4dabb35d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_0505_cc_sc_tools_section.x_acal_calepa.business_lead_user</sys_name>
+        <sys_package display_value="CodeCreative Catalog Experience" source="x_0505_cc_sc_tools">4a3af75787830110a937fcc7cebb3581</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CodeCreative Catalog Experience">4a3af75787830110a937fcc7cebb3581</sys_scope>
+        <sys_security_acl display_value="x_0505_cc_sc_tools_section">f747592f87870110a937fcc7cebb3578</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_78d962b187ca6d501d4f0fe4dabb35d3</sys_update_name>
+        <sys_updated_by>onochie.ifedebe</sys_updated_by>
+        <sys_updated_on>2023-04-07 21:02:29</sys_updated_on>
+        <sys_user_role display_value="x_acal_calepa.business_lead_user" name="x_acal_calepa.business_lead_user">87f20f96872d25101d4f0fe4dabb35d8</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
